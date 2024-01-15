@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório agrupa várias respostas de exercícios de Algoritmos e Lógica de Programação utilizando a linguagem Java.
 
 ## Folder Structure
 
